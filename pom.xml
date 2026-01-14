@@ -75,7 +75,7 @@
   <distributionManagement>
     <snapshotRepository>
         <id>nexus</id>
-        <url>http://35.179.129.230:8081/repository/java-packages/</url>
+        <url>http://18.134.16.149:8081/repository/java-packages/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
