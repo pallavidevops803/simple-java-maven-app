@@ -74,8 +74,8 @@
   </build>
 <distributionManagement>
     <snapshotRepository>
-        <id>nexus-snapshots</id>
-        <url>http://3.8.189.117:8081/repository/maven-snapshots/</url>
+        <id>java-packages</id>
+        <url>http://3.8.189.117:8081/repository/java-packages/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
