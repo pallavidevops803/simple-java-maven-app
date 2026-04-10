@@ -70,7 +70,7 @@
   <distributionManagement>
   <snapshotRepository>
     <id>nexus-snapshots</id>
-    <url>http://18.132.45.19:8081/repository/java-maven-snapshots/</url>
+    <url>http://35.178.194.23:8081/repository/java-maven-snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
