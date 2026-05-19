@@ -4,7 +4,7 @@
          https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.demo</groupId>
-    <artifactId>simple-java-app-1.0.jar</artifactId>
+    <artifactId>simple-java-app</artifactId>
     <version>1.0</version>
     <name>Simple Java App</name>
     <properties>
@@ -39,4 +39,10 @@
             </plugin>
         </plugins>
     </build>
+         <distributionManagement>
+    <repository>
+        <id>nexus-releases</id>
+        <url>http://13.40.228.36:8081/repository/maven-releases/</url>
+    </repository>
+</distributionManagement>
 </project>
