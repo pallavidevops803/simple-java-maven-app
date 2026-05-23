@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.demo</groupId>
     <artifactId>simple-java-app</artifactId>
-    <version>1.5</version>
+    <version>1.1</version>
     <name>Simple Java App</name>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
